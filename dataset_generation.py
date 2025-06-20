@@ -13,7 +13,7 @@ from transformers import pipeline
 # custom function:
 from utils import create_collage, extract_dominant_colors, get_emotion_scores
 
-api_key = "3039136bdade60a401af3af4c8024a39"
+api_key = "insert_your_api_key"
 params = {"api_key": api_key}
 headers = {"accept": "application/json"}
 
