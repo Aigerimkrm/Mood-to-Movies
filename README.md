@@ -1,4 +1,4 @@
-## Mood to Movie Project: A Sentiment Driven Recommender
+## Emotion-Based Movie and Color Palette Recommender
 
 **By: Aigerim Zhumagulova and Arooshi Dayal** 
 
