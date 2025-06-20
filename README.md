@@ -10,11 +10,11 @@ It blends sentiment analysis, movie recommendations, and color psychology all in
 1) Download the folder from the Github Repository: https://github.com/Aigerimkrm/Mood-to-Movies
 2) Open Anaconda Prompt/Terminal and navigate to the project folder. It will look something like this:
    
-**"C:\Users\Mood-to-Movies-main\Final_Python_Project\final_project"**
+   **"C:\Users\Mood-to-Movies-main\Final_Python_Project\final_project"**
 
 4) Install the required packages:
 
-**pip install -r requirements.txt**
+   **pip install -r requirements.txt**
 (This will automatically install all the libraries used in the project)
 
 7) To Launch App, run this final command:
