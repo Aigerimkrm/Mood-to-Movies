@@ -3,8 +3,15 @@
 **By: Aigerim Zhumagulova and Arooshi Dayal** 
 
 This Streamlit app recommends movies and soothing color palettes based on how you're feeling. 
-You write a text, the sentiment analyzer will give you the top two emotions based on it and then you see a colorful palette and movie recommendation! 
-It blends sentiment analysis, movie recommendations, and color psychology all in one fun experience!
+Just type a sentence describing your mood and the app will analyze your sentiment and identify your top two emotions. Then it shows:
+
+- Emotion-driven color palettes
+
+- A personalized movie recommendation
+
+- A visual collage from related films
+
+It’s a fun blend of sentiment analysis, color psychology, and movie discovery. 
 
 ## Instructions on how to run the code: 
 1) Download the folder from the Github Repository: https://github.com/Aigerimkrm/Mood-to-Movies
