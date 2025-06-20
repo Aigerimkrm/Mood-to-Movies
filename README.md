@@ -12,10 +12,16 @@ It blends sentiment analysis, movie recommendations, and color psychology all in
    
 **"C:\Users\Mood-to-Movies-main\Final_Python_Project\final_project"**
 
-4) Install the required packages: pip install -r requirements.txt.
+4) Install the required packages:
+
+**pip install -r requirements.txt**
 (This will automatically install all the libraries used in the project)
-5) To Launch App, run this final command: streamlit run app.py
-6) The website will then open on your browser! 
+
+7) To Launch App, run this final command:
+
+   **streamlit run app.py**
+   
+9) The website will then open on your browser! 
 
 ## Dataset Generation
 
