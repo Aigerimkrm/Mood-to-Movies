@@ -1,4 +1,5 @@
 **Mood to Movie Project**
+
 ##By: Aigerim Zhumagulova and Arooshi Dayal
 
 This Streamlit app recommends movies and soothing color palettes based on how you're feeling. 
