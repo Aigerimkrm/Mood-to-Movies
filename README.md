@@ -1,15 +1,16 @@
 **Mood to Movie Project**
+#By: Aigerim Zhumagulova and Arooshi Dayal
 
 This Streamlit app recommends movies and soothing color palettes based on how you're feeling. 
 You write a text, the sentiment analyzer will give you the top two emotions based on it and then you see a colorful palette and movie recommendation! 
 It blends sentiment analysis, movie recommendations, and color psychology all in one fun experience!
 
-Instructions to how to run the code: 
-1) Download the folder
-2) explain the whole terminal part
-3) exact lines of code to put (pip install -r requirements.txt , streamlit run app.py)
-
-
+## Instructions to how to run the code: 
+1) Download the folder from the Github Repository: https://github.com/Aigerimkrm/Mood-to-Movies
+2) Open Anaconda Prompt/Terminal and navigate to the project folder: 
+3) Install the required packages: pip install -r requirements.txt.
+(This will automatically install all the libraries used in the project)
+4) To Launch App, run this final command: streamlit run app.py
 
 ## Dataset Generation
 
