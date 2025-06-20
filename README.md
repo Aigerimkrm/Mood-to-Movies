@@ -42,14 +42,6 @@ Here is an example of what you should achieve after following our instructions:
 ![Streamlit output photo 1 ](https://github.com/user-attachments/assets/5c2a6658-a60f-4299-ae52-0557028afe63)
 
 ## Areas for Future Exploration and Improvement
-
-
-
-
-
-
-
-
-area for future exploration 
+All of our design choices were made with the intention of maintaining reasonable speed and analytical adequacy. Nonetheless, the project is open to several directions for future development. A natural extension would be to significantly expand this collection to include tens of thousands of titles, increasing the breadth and diversity of recommendations. While we currently work with 19 emotions, future models could incorporate hundreds of emotional categories. Future work could also increase the number of movies' frames used to explore more sophisticated visual features.
 
 
