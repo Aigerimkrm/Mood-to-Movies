@@ -1,4 +1,4 @@
-## Mood to Movie Project
+## Mood to Movie Project: A Sentiment Driven Recommender
 
 **By: Aigerim Zhumagulova and Arooshi Dayal** 
 
