@@ -8,10 +8,11 @@ It blends sentiment analysis, movie recommendations, and color psychology all in
 
 ## Instructions on how to run the code: 
 1) Download the folder from the Github Repository: https://github.com/Aigerimkrm/Mood-to-Movies
-2) Open Anaconda Prompt/Terminal and navigate to the project folder: 
+2) Open Anaconda Prompt/Terminal and navigate to the project folder (cd)
 3) Install the required packages: pip install -r requirements.txt.
 (This will automatically install all the libraries used in the project)
 4) To Launch App, run this final command: streamlit run app.py
+5) The website will then open on your browser! 
 
 ## Dataset Generation
 
@@ -52,4 +53,3 @@ Here is an example of what you should achieve after following our instructions:
 area for future exploration 
 
 
-Credits: by...
