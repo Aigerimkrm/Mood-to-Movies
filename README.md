@@ -5,13 +5,16 @@ You write a text, the sentiment analyzer will give you the top two emotions base
 It blends sentiment analysis, movie recommendations, and color psychology all in one fun experience!
 
 Instructions to how to run the code: 
-1) download the folder
+1) Download the folder
 2) explain the whole terminal part
 3) exact lines of code to put (pip install -r requirements.txt , streamlit run app.py)
 
 
 How it works in general (distances parts, color palettes, percentage match comparison) 
 
-screenshot of the output 
+Screenshot of the output 
 
 area for future exploration 
+
+
+Credits: by...
