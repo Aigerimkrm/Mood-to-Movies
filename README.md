@@ -1,5 +1,5 @@
 **Mood to Movie Project**
-#By: Aigerim Zhumagulova and Arooshi Dayal
+##By: Aigerim Zhumagulova and Arooshi Dayal
 
 This Streamlit app recommends movies and soothing color palettes based on how you're feeling. 
 You write a text, the sentiment analyzer will give you the top two emotions based on it and then you see a colorful palette and movie recommendation! 
