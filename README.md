@@ -5,11 +5,11 @@
 This Streamlit app recommends movies and soothing color palettes based on how you're feeling. 
 Just type a sentence describing your mood and the app will analyze your sentiment and identify your top two emotions. Then it shows:
 
-- Emotion-driven color palettes
+- Two emotion-driven color palettes
 
 - A personalized movie recommendation
 
-- A visual collage from related films
+- A visual collage from the movie scenes
 
 It’s a fun blend of sentiment analysis, color psychology, and movie discovery. 
 
