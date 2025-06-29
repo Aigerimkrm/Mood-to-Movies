@@ -14,6 +14,10 @@ Just type a sentence describing your mood and the app will analyze your sentimen
 It’s a fun blend of sentiment analysis, color psychology, and movie discovery. 
 
 ## Instructions on how to run the code: 
+We recommend using Python 3.12.x (e.g., 3.12.7) for this project.
+The code has been tested on Python 3.12 and all required packages are fully compatible with this version.
+Using earlier or later versions may result in compatibility issues or unexpected errors.
+
 1) Download the folder from the Github Repository: https://github.com/Aigerimkrm/Mood-to-Movies
 2) Open Anaconda Prompt/Terminal and navigate to the `final_project` folder, i.e. use the similar looking command `cd "C:\Users\PythonProjects\Mood-to-Movies-main\Final_Python_Project\final_project"`
 3) Install the required packages by using the command `pip install -r requirements.txt` (This will automatically install all the libraries used in the project)
